@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyRestaurantApp</string>
+
+    <string name="text_main">Restaurant</string>
+    <string name="text_pequeño_main">La vida no es para llevar, es para comer aqui.</string>
+    <string name="text_boton_registro">Registrate</string>
+    <string name="text_boton_inicio">Iniciar Sessión</string>
+
+    <string name="text_ico_inicio">Menú de Inicio</string>
+    <string name="text_ico_carta">Carta</string>
+
+</resources>
