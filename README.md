@@ -2,7 +2,7 @@
 App de Aplicaciones Moviles de Restaurante 
 
 # INTEGRANTES DEL GRUPO
-| Nombre Completo | Participación  |
+| Nombre Completo |  |
 | --------------- | -------------- |
 | Ronaldo Guillen Ramirez          | 
 | Gabriel Anthony Colque Unocc     | 
